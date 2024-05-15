@@ -1,0 +1,1 @@
+<p>Copyright &copy; <?php echo date("Y");?> - Jasa Pembuatan Website dan Aplikasi Android (Powered By Zulfikar)</p>
